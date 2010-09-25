@@ -1,0 +1,12 @@
+Use the appropriate files in \sql to create the Armory DB - you must use armory_cache, armory_X.X.X_main (+ all update files) and armory_X.X.X_lang_lang (+ all update files)
+
+Copy icons from \64x64 to \armory\images\icons\64x64 or you can download the icons from here - http://wow.allakhazam.com/images/icons/icons.tar.gz
+
+Remove the extension .config from the following files \armory\configuration\mysql.php.config and \armory\configuration\settings.inc.php.config
+
+Settings for connection to the DB are in \armory\configuration\mysql.php
+
+Every other different option can be set from here - \armory\configuration\settings.inc.php
+
+
+P.S. If you like my work, please don't remove "MBA Project Leader - SUPERGADGET".
